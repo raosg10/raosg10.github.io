@@ -1,7 +1,7 @@
 # Data Engineer - Cloud Solutions
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, GO, Linux
-
+#### AWS Certified Database - Specialty
 ## Education					       		
 - M.Sc. Digital Engineering	| Otto Von Guericke University, Magdeburg (_September 2020_)
 - M.Sc. Project Management | University of Hyderabad, Hyderabad (_July 2016_)			 			        		
