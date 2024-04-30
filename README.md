@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, GO, Linux
 
 ## Education					       		
-- M.Sc., Digital Engineering	| Otto Von Guericke University, Magdeburg (_September 2020_)
-- M.Sc., Project Management | University of Hyderabad, Hyderabad (_July 2016_)			 			        		
-- B.E., Electrical and Electronics Engineering | Osmania University, Hyderabad (_May 2014_)
+- M.Sc. Digital Engineering	| Otto Von Guericke University, Magdeburg (_September 2020_)
+- M.Sc. Project Management | University of Hyderabad, Hyderabad (_July 2016_)			 			        		
+- B.E. Electrical and Electronics Engineering | Osmania University, Hyderabad (_May 2014_)
 
 ## Work Experience
 **Software Developer @ Dafür GmbH (_Dec 2021 - Present_)**
