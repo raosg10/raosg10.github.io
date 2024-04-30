@@ -1,16 +1,7 @@
 title: Supriya Rao Gude
 logo: /Images/fotor-20240430185620.png
-email: supriyar.gude@gmail.com
 description: "A personal portfolio and blog by Supriya Rao Gude."
-navigation:
-  - title: Home
-    url: /
-  - title: Blog
-    url: /blog/
-  - title: Projects
-    url: /projects/
-  - title: About
-    url: /about/
+email: supriyar.gude@gmail.com
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
