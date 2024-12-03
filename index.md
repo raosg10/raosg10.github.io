@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-{% if page.title == "Home" %}
+ {% if page.title == "Home" %}
   <!-- Hero Section for Home Page -->
   <div class="hero">
     <h1>Welcome to Supriya Rao Gude's Portfolio</h1>
