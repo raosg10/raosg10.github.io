@@ -1,39 +1,57 @@
+/* Global Styles */
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f0f4f8;
-  color: #333;
+  font-family: 'Georgia', serif;
+  background-color: #2b2d42; /* Royal Blue */
+  color: #fffff0; /* Ivory */
   margin: 0;
   padding: 0;
 }
 
+/* Header */
 header {
-  background: #4CAF50;
-  color: white;
-  padding: 10px;
+  background: linear-gradient(90deg, #000000, #2b2d42); /* Black to Royal Blue */
+  padding: 20px;
   text-align: center;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
 }
 
 header nav a {
-  color: white;
+  color: #d4af37; /* Gold */
   margin: 0 15px;
   text-decoration: none;
   font-weight: bold;
+  font-size: 18px;
 }
 
 header nav a:hover {
+  color: #fffff0; /* Ivory */
   text-decoration: underline;
 }
 
+/* Hero Section */
 .hero {
-  background: linear-gradient(135deg, #4CAF50, #2e7d32);
-  color: white;
+  background: linear-gradient(135deg, #2b2d42, #000000); /* Royal Blue to Black */
+  color: #d4af37; /* Gold */
   text-align: center;
-  padding: 50px 0;
+  padding: 100px 20px;
 }
 
+.hero h1 {
+  font-size: 3em;
+  margin: 0;
+}
+
+.hero p {
+  font-size: 1.5em;
+  margin: 10px 0 0;
+}
+
+/* Footer */
 footer {
-  background: #4CAF50;
-  color: white;
+  background: #000000; /* Black */
+  color: #d4af37; /* Gold */
   text-align: center;
-  padding: 10px 0;
+  padding: 15px 0;
+  font-size: 14px;
+  border-top: 1px solid #2b2d42; /* Royal Blue */
 }
