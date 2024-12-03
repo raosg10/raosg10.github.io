@@ -1,22 +1,22 @@
 /* Global Styles */
 body {
-  font-family: 'Georgia', serif;
-  background-color: #2b2d42; /* Royal Blue */
-  color: #fffff0; /* Ivory */
+  font-family: 'Arial', sans-serif;
+  background-color: #FFFBF2; /* Soft Cream */
+  color: #333333; /* Dark Gray for Text */
   margin: 0;
   padding: 0;
 }
 
 /* Header */
 header {
-  background: linear-gradient(90deg, #000000, #2b2d42); /* Black to Royal Blue */
+  background: linear-gradient(90deg, #AEC6CF, #C5A3FF); /* Baby Blue to Lavender */
   padding: 20px;
   text-align: center;
-  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 header nav a {
-  color: #d4af37; /* Gold */
+  color: #333333; /* Dark Gray */
   margin: 0 15px;
   text-decoration: none;
   font-weight: bold;
@@ -24,34 +24,58 @@ header nav a {
 }
 
 header nav a:hover {
-  color: #fffff0; /* Ivory */
+  color: #FFD1DC; /* Peach */
   text-decoration: underline;
 }
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(135deg, #2b2d42, #000000); /* Royal Blue to Black */
-  color: #d4af37; /* Gold */
+  background: linear-gradient(135deg, #B5EAD7, #FFD1DC); /* Mint Green to Peach */
+  color: #333333; /* Dark Gray */
   text-align: center;
-  padding: 100px 20px;
+  padding: 80px 20px;
+  border-bottom: 5px solid #C5A3FF; /* Lavender */
 }
 
 .hero h1 {
-  font-size: 3em;
+  font-size: 2.5em;
   margin: 0;
 }
 
 .hero p {
-  font-size: 1.5em;
+  font-size: 1.3em;
   margin: 10px 0 0;
+}
+
+/* Content Section */
+.content {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.content h2 {
+  color: #C5A3FF; /* Lavender */
+}
+
+.content a {
+  background: #AEC6CF; /* Baby Blue */
+  color: #333333;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.content a:hover {
+  background: #FFD1DC; /* Peach */
+  color: #FFFFFF;
 }
 
 /* Footer */
 footer {
-  background: #000000; /* Black */
-  color: #d4af37; /* Gold */
+  background: #AEC6CF; /* Baby Blue */
+  color: #333333; /* Dark Gray */
   text-align: center;
   padding: 15px 0;
   font-size: 14px;
-  border-top: 1px solid #2b2d42; /* Royal Blue */
+  border-top: 3px solid #B5EAD7; /* Mint Green */
 }
