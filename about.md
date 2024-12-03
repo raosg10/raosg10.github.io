@@ -8,6 +8,10 @@ title: About Me
 I am Supriya Rao Gude, a Data Engineer with expertise in Python, AWS, SQL, and more.
 
 # About Me
+
+I am Supriya Rao Gude, a Data Engineer with expertise in Python, AWS, SQL, and more.
+
+
 Welcome to my portfolio site! I am Supriya Rao Gude, a Data Engineer with a strong focus on cloud solutions and data-driven projects.
 Data Engineer - Cloud Solutions
 Technical Skills: Python, SQL, AWS, Snowflake, GO, Linux
