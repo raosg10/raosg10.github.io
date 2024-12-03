@@ -8,11 +8,11 @@
 - B.E. Electrical and Electronics Engineering | Osmania University, Hyderabad (_May 2014_)
 
 ## Work Experience
-**Software Developer @ Dafür GmbH (_Dec 2021 - Present_)**
+**Software Developer @ Dafür GmbH (Dec 2021 - Apr 2024)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Analyst Intern @ ChargeX GmbH (_April 2019 - _Ooctober 2019)**
+**Data Analyst Intern @ ChargeX GmbH (April 2019 - Ooctober 2019)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
