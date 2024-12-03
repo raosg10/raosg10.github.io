@@ -1,3 +1,8 @@
+---
+layout: page
+title: index
+---
+
 <nav>
   <a href="{{ site.baseurl }}/">Home</a>
   <a href="{{ site.baseurl }}/about">About</a>
