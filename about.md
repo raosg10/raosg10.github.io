@@ -1,16 +1,13 @@
 ---
-layout: page
+layout: default
 title: About Me
 ---
 
-<nav>
-  <a href="{{ site.baseurl }}/">Home</a>
-  <a href="{{ site.baseurl }}/about">About</a>
-  <a href="{{ site.baseurl }}/projects">Projects</a>
-  <a href="{{ site.baseurl }}/contact">Contact</a>
-</nav>
-
 # About Me
+
+I am Supriya Rao Gude, a Data Engineer with expertise in Python, AWS, SQL, and more.
+
+
 Welcome to my portfolio site! I am Supriya Rao Gude, a Data Engineer with a strong focus on cloud solutions and data-driven projects.
 Data Engineer - Cloud Solutions
 Technical Skills: Python, SQL, AWS, Snowflake, GO, Linux
