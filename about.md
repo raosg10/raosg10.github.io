@@ -7,7 +7,7 @@ title: About Me
 
 I am Supriya Rao Gude, a Data Engineer with expertise in Python, AWS, SQL, and more.
 
-
+<!-- 
 Welcome to my portfolio site! I am Supriya Rao Gude, a Data Engineer with a strong focus on cloud solutions and data-driven projects.
 Data Engineer - Cloud Solutions
 Technical Skills: Python, SQL, AWS, Snowflake, GO, Linux
@@ -25,4 +25,4 @@ Data Analyst Intern @ ChargeX GmbH (April 2019 - Ooctober 2019)
 
 Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
+ -->
