@@ -1,12 +1,8 @@
 ---
-layout: page
-title: index
+layout: default
+title: Home
 ---
 
-<nav>
-  <a href="{{ site.baseurl }}/">Home</a>
-  <a href="{{ site.baseurl }}/about">About</a>
-  <a href="{{ site.baseurl }}/projects">Projects</a>
-  <a href="{{ site.baseurl }}/contact">Contact</a>
-</nav>
+# Welcome to My Portfolio!
 
+Hi, I'm Supriya Rao Gude, a Data Engineer specializing in cloud solutions.
