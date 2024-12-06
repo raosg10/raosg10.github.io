@@ -95,3 +95,71 @@ footer {
   font-size: 14px;
   border-top: 3px solid #B5EAD7; /* Mint Green */
 }
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+.container {
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+/* Headings */
+h1, h2 {
+  text-align: center;
+  color: #2c3e50;
+}
+
+/* Sections */
+.section {
+  margin-bottom: 20px;
+}
+
+.box {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fefefe;
+}
+
+/* Skills and Education */
+.skills, .education {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.skills .item, .education .item {
+  flex: 1 1 calc(50% - 15px);
+  background-color: #f4f4f4;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.item h3 {
+  margin: 0 0 10px;
+  font-size: 1.2em;
+}
+
+.item p {
+  margin: 0;
+  font-size: 0.95em;
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 0.9em;
+  color: #aaa;
+}
