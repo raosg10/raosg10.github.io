@@ -6,6 +6,22 @@ body {
   margin: 0;
   padding: 0;
 }
+/* Add a responsive border to the body */
+body {
+  margin: 0;
+  padding: 10px; /* Add space between the content and the border */
+  border: 5px solid #FFD1DC; /* Pastel Peach border */
+  box-sizing: border-box; /* Ensure padding is included within the width/height */
+  background-color: #FFFBF2; /* Soft cream background */
+}
+
+/* Ensure the border works on all screen sizes */
+@media (max-width: 768px) {
+  body {
+    padding: 5px; /* Reduce padding for smaller screens */
+    border-width: 3px; /* Thinner border on small screens */
+  }
+}
 
 /* Header */
 header {
