@@ -14,7 +14,7 @@ title: About Me
 <body>
   <div class="container">
    <div class="profile-section">
-      <img src="mypic.png" alt="Supriya Rao Gude" class="profile-picture">
+      <img src="raosg10.github.io\Images\mypic.png" alt="Supriya Rao Gude" class="profile-picture">
     </div>
     
     <div class="section">
