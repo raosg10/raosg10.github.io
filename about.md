@@ -13,6 +13,9 @@ title: About Me
 </head>
 <body>
   <div class="container">
+   <div class="profile-section">
+      <img src="mypic.png" alt="Supriya Rao Gude" class="profile-picture">
+    </div>
     
     <div class="section">
       <h2>Overview</h2>
