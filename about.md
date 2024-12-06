@@ -4,8 +4,6 @@ title: About Me
 ---
 
 # About Me
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -15,8 +13,7 @@ title: About Me
 </head>
 <body>
   <div class="container">
-    <h1>About Me</h1>
-
+    
     <div class="section">
       <h2>Overview</h2>
       <div class="box">
