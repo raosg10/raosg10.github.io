@@ -1,21 +1,20 @@
 /* Global Styles */
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #FFFBF2; /* Soft Cream */
-  color: #333333; /* Dark Gray for Text */
   margin: 0;
   padding: 0;
-}
-/* Add a responsive border to the body */
-body {
-  margin: 0;
-  padding: 10px; /* Add space between the content and the border */
-  border: 5px solid #FFD1DC; /* Pastel Peach border */
-  box-sizing: border-box; /* Ensure padding is included within the width/height */
-  background-color: #FFFBF2; /* Soft cream background */
+  background-color: #FFFBF2; /* Soft Cream */
+  color: #333333; /* Dark Gray for Text */
+  box-sizing: border-box; /* Include padding and border in element's total width and height */
 }
 
-/* Ensure the border works on all screen sizes */
+/* Add a responsive border to the body */
+body {
+  padding: 10px; /* Add space between the content and the border */
+  border: 5px solid #FFD1DC; /* Pastel Peach border */
+}
+
+/* Responsive border adjustments */
 @media (max-width: 768px) {
   body {
     padding: 5px; /* Reduce padding for smaller screens */
@@ -95,83 +94,8 @@ footer {
   font-size: 14px;
   border-top: 3px solid #B5EAD7; /* Mint Green */
 }
-/* General Styles */
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #f9f9f9;
-  color: #333;
-}
 
-.container {
-  max-width: 900px;
-  margin: 30px auto;
-  padding: 20px;
-  background-color: #ffffff;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  border-radius: 8px;
-}
-
-/* Headings */
-h1, h2 {
-  text-align: center;
-  color: #2c3e50;
-}
-
-/* Sections */
-.section {
-  margin-bottom: 20px;
-}
-
-.box {
-  padding: 20px;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  background-color: #fefefe;
-}
-
-/* Skills and Education */
-.skills, .education {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 15px;
-}
-
-.skills .item, .education .item {
-  flex: 1 1 calc(50% - 15px);
-  background-color: #f4f4f4;
-  padding: 15px;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.item h3 {
-  margin: 0 0 10px;
-  font-size: 1.2em;
-}
-
-.item p {
-  margin: 0;
-  font-size: 0.95em;
-}
-
-/* Footer */
-.footer {
-  text-align: center;
-  margin-top: 20px;
-  font-size: 0.9em;
-  color: #aaa;
-}
-/* General Styles */
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #f9f9f9;
-  color: #333;
-}
-
+/* Container */
 .container {
   max-width: 900px;
   margin: 30px auto;
@@ -198,7 +122,7 @@ body {
 /* Headings */
 h1, h2 {
   text-align: center;
-  color: #2c3e50;
+  color: #2c3e50; /* Dark Blue */
 }
 
 /* Sections */
