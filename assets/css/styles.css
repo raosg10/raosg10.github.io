@@ -280,3 +280,74 @@ body {
   font-size: 0.9rem;
   color: #666;
 }
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+.contact-form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  gap: 20px;
+}
+
+.contact-image img {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.contact-form {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 400px;
+}
+
+.contact-form h1 {
+  font-size: 30px;
+  font-weight: bold;
+  color: #333;
+}
+
+.contact-form h3 {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.contact-form label {
+  font-size: 16px;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.contact-form button {
+  padding: 12px;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.contact-form button:hover {
+  background-color: #555;
+}
