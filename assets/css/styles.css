@@ -3,53 +3,35 @@ body {
   font-family: 'Arial', sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #FFFBF2; /* Soft Cream */
+  background-color: #f5f5f5; /* Light Gray */
   color: #333333; /* Dark Gray for Text */
-  box-sizing: border-box; /* Include padding and border in element's total width and height */
-}
-
-/* Add a responsive border to the body */
-body {
-  padding: 10px; /* Add space between the content and the border */
-  border: 5px solid #FFD1DC; /* Pastel Peach border */
-}
-
-/* Responsive border adjustments */
-@media (max-width: 768px) {
-  body {
-    padding: 5px; /* Reduce padding for smaller screens */
-    border-width: 3px; /* Thinner border on small screens */
-  }
+  box-sizing: border-box;
 }
 
 /* Header */
 header {
-  background: linear-gradient(90deg, #AEC6CF, #C5A3FF); /* Baby Blue to Lavender */
+  background-color: #007BFF; /* Blue */
   padding: 20px;
   text-align: center;
-  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 header nav a {
-  color: #333333; /* Dark Gray */
+  color: #ffffff; /* White */
   margin: 0 15px;
   text-decoration: none;
   font-weight: bold;
-  font-size: 18px;
 }
 
 header nav a:hover {
-  color: #FFD1DC; /* Peach */
   text-decoration: underline;
 }
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(135deg, #B5EAD7, #FFD1DC); /* Mint Green to Peach */
-  color: #333333; /* Dark Gray */
+  background-color: #28a745; /* Green */
+  color: #ffffff; /* White */
   text-align: center;
-  padding: 80px 20px;
-  border-bottom: 5px solid #C5A3FF; /* Lavender */
+  padding: 60px 20px;
 }
 
 .hero h1 {
@@ -69,30 +51,28 @@ header nav a:hover {
 }
 
 .content h2 {
-  color: #C5A3FF; /* Lavender */
+  color: #007BFF; /* Blue */
 }
 
 .content a {
-  background: #AEC6CF; /* Baby Blue */
-  color: #333333;
+  background-color: #28a745; /* Green */
+  color: #ffffff;
   padding: 10px 20px;
   border-radius: 5px;
   text-decoration: none;
 }
 
 .content a:hover {
-  background: #FFD1DC; /* Peach */
-  color: #FFFFFF;
+  background-color: #007BFF; /* Blue */
 }
 
 /* Footer */
 footer {
-  background: #AEC6CF; /* Baby Blue */
-  color: #333333; /* Dark Gray */
+  background-color: #007BFF; /* Blue */
+  color: #ffffff; /* White */
   text-align: center;
   padding: 15px 0;
   font-size: 14px;
-  border-top: 3px solid #B5EAD7; /* Mint Green */
 }
 
 /* Container */
@@ -100,7 +80,7 @@ footer {
   max-width: 900px;
   margin: 30px auto;
   padding: 20px;
-  background-color: #ffffff;
+  background-color: #ffffff; /* White */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
 }
@@ -134,7 +114,7 @@ h1, h2 {
   padding: 20px;
   border: 1px solid #ddd;
   border-radius: 8px;
-  background-color: #fefefe;
+  background-color: #ffffff; /* White */
 }
 
 /* Skills and Education */
@@ -146,10 +126,9 @@ h1, h2 {
 
 .skills .item, .education .item {
   flex: 1 1 calc(50% - 15px);
-  background-color: #f4f4f4;
+  background-color: #f0f0f0; /* Light Gray */
   padding: 15px;
   border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .item h3 {
