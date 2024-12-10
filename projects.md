@@ -4,8 +4,10 @@ title: projects
 ---
 
 <section>
+<div class="projects-container">
+
   <div class="project-card">
-  <img src="https://raosg10.github.io/assets/images/weather.forecast.png" alt="">
+  <img src="https://via.placeholder.com/150" alt="">
   <div class="content">
     <h3>Weather Forecast App</h3>
     <p>The Weather Forecast App allows users to check the weather conditions for the next few days in any city. It provides real-time data on temperature, humidity, wind speed, and other weather parameters like UV index, visibility, and sky conditions. The app offers an intuitive interface with interactive charts and weather images for each forecasted day. Simply enter a city and select the number of days for the forecast to get started.</p>
@@ -20,5 +22,6 @@ title: projects
       <h3>Project 2</h3>
       <p>Brief description of Project 2.</p>
     </div>
+  </div>
   </div>
 </section>
