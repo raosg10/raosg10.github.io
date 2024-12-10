@@ -7,7 +7,7 @@ title: projects
   <div class="project-card">
     <img src="/assets/images/project1.jpg" alt="Project 1">
     <div class="content">
-      <h3>Project 1</h3>
+      <h3>Weather Forecast App</h3>
       <p>Brief description of Project 1.</p>
     </div>
   </div>

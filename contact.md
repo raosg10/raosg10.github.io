@@ -3,9 +3,10 @@ layout: default
 title: Contact
 ---
 
-# Contact Me
+<div class="contact-form-container">
 
-### If you have any questions, feel free to reach out to me using the form below:
+  <h1>Contact Me</h1>
+  <h3>If you have any questions, feel free to reach out to me using the form below:</h3>
 
 <form action="https://formspree.io/f/xbljeala" method="POST">
   <label for="name">Your Name:</label>
@@ -19,3 +20,4 @@ title: Contact
   
   <button type="submit">Send Message</button>
 </form>
+</div>
