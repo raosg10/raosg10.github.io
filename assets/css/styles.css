@@ -273,6 +273,28 @@ h1, h2 {
   animation-delay: 0.4s;
 }
 
+
+.project-card .content .btn {
+  margin-top: 20px; /* Adds space between text and button */
+}
+
+.project-card .content {
+  padding: 15px;
+}
+
+.project-card .btn {
+  background-color: #333;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.project-card .btn:hover {
+  background-color: #555;
+}
+
 @keyframes slideIn {
   0% {
     opacity: 0;
