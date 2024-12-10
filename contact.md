@@ -4,9 +4,12 @@ title: Contact
 ---
 
 <div class="contact-form-container">
+  <!-- Left Side: Image -->
   <div class="contact-image">
-    <img src="Images\me.JPEG" alt="">
+    <img src="Images\me.JPEG" alt="Contact Us">
   </div>
+
+  <!-- Right Side: Contact Form -->
   <div class="contact-form">
     <h1>Contact Me</h1>
     <h3>If you have any questions, feel free to reach out to me using the form below:</h3>
