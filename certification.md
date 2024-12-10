@@ -10,7 +10,7 @@ title: Certification
 <!-- AWS DSC Certification Badge -->
 <p>
   <a href="https://www.credly.com/badges/d1ad5b86-7471-4b4b-b930-ed1ff18fbe03/public_url" target="_blank">
-    <img src="https://www.credly.com/badges/d1ad5b86-7471-4b4b-b930-ed1ff18fbe03/public_url" alt="Badge Name" style="max-width:30%; height:auto;">
+    <img src="Images\aws-certified-database-specialty.png" alt=" style="max-width:30%; height:auto;">
   </a>
 </p>
 
@@ -25,7 +25,7 @@ title: Certification
 <!-- Credly Badge for AWS Certified Cloud Practitioner -->
 <<p>
   <a href="https://www.credly.com/badges/db1046e1-470c-44d0-97cb-18e856c65e89/public_url" target="_blank">
-    <img src="https://www.credly.com/badges/db1046e1-470c-44d0-97cb-18e856c65e89/public_url" alt="Badge Name" style="max-width:30%; height:auto;">
+    <img src="Images\aws-certified-cloud-practitioner.png" alt="" style="max-width:30%; height:auto;">
   </a>
 </p>
 
