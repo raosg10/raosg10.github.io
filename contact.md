@@ -5,7 +5,7 @@ title: Contact
 
 # Contact Me
 
-If you have any questions, feel free to reach out to me using the form below:
+### If you have any questions, feel free to reach out to me using the form below:
 
 <form action="https://formspree.io/f/xbljeala" method="POST">
   <label for="name">Your Name:</label>
