@@ -3,14 +3,14 @@ body {
   font-family: 'Arial', sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f5f5f5; /* Light Gray */
+  background-color: #ffffff; /* White */
   color: #333333; /* Dark Gray for Text */
   box-sizing: border-box;
 }
 
 /* Header */
 header {
-  background-color: #007BFF; /* Blue */
+  background-color: #000000; /* Black */
   padding: 20px;
   text-align: center;
 }
@@ -28,8 +28,8 @@ header nav a:hover {
 
 /* Hero Section */
 .hero {
-  background-color: #28a745; /* Green */
-  color: #ffffff; /* White */
+  background-color: #f8f8f8; /* Light Gray */
+  color: #333333; /* Dark Gray */
   text-align: center;
   padding: 60px 20px;
 }
@@ -51,24 +51,24 @@ header nav a:hover {
 }
 
 .content h2 {
-  color: #007BFF; /* Blue */
+  color: #000000; /* Black */
 }
 
 .content a {
-  background-color: #28a745; /* Green */
-  color: #ffffff;
+  background-color: #000000; /* Black */
+  color: #ffffff; /* White */
   padding: 10px 20px;
   border-radius: 5px;
   text-decoration: none;
 }
 
 .content a:hover {
-  background-color: #007BFF; /* Blue */
+  background-color: #333333; /* Dark Gray */
 }
 
 /* Footer */
 footer {
-  background-color: #007BFF; /* Blue */
+  background-color: #000000; /* Black */
   color: #ffffff; /* White */
   text-align: center;
   padding: 15px 0;
@@ -102,7 +102,7 @@ footer {
 /* Headings */
 h1, h2 {
   text-align: center;
-  color: #2c3e50; /* Dark Blue */
+  color: #000000; /* Black */
 }
 
 /* Sections */
@@ -146,5 +146,5 @@ h1, h2 {
   text-align: center;
   margin-top: 20px;
   font-size: 0.9em;
-  color: #aaa;
+  color: #aaa; /* Light Gray */
 }
