@@ -6,7 +6,7 @@ title: Contact
 <div class="contact-form-container">
   <!-- Left Side: Image -->
   <div class="contact-image">
-    <img src="Images\me.JPEG" alt="Contact Us">
+    <img src="Images\contact-me.gif" alt="Contact Me" style="max-width:80%; height:auto;">
   </div>
 
   <!-- Right Side: Contact Form -->
