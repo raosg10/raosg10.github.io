@@ -21,7 +21,7 @@ title: About Me
       <h2>Overview</h2>
       <div class="box">
         <p>
-          I am a <strong>Visual Analyst</strong> with a strong focus on <strong>cloud solutions</strong> and 
+          I am a <strong>Data Engineer/Data Analyst</strong> with a strong focus on <strong>cloud solutions</strong> and 
           <strong>data-driven projects</strong>. I specialize in data engineering, building ETL pipelines, 
           restructuring databases, and crafting efficient SQL queries to empower businesses with data insights.
         </p>
@@ -33,19 +33,19 @@ title: About Me
       <div class="skills">
         <div class="item">
           <h3>Programming</h3>
-          <p>Python, Go</p>
+          <p>GO, SQL, R, Python, C/C++, JavaScript, HTML+CSS, C#, ABAP, Java</p>
         </div>
         <div class="item">
-          <h3>Database & Cloud Technologies</h3>
-          <p>SQL, AWS, Snowflake</p>
+          <h3>Database </h3>
+          <p>MongoDB, AWS DynamoDB, IBM DB2, PostgreSQL, MariaDB, MySQL</p>
         </div>
         <div class="item">
           <h3>Operating Systems</h3>
-          <p>Linux</p>
+          <p>Linux, Windows, macOS </p>
         </div>
         <div class="item">
-          <h3>Certifications</h3>
-          <p>AWS Certified Database - Specialty</p>
+          <h3>Big Data Frameworks</h3>
+          <p>Apache Hadoop, Apache Kafka, Apache Spark, PySpark, SparkSQL</p>
         </div>
       </div>
     </div>
