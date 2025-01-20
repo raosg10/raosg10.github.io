@@ -86,3 +86,29 @@ title: Certification
 
 </div>
 
+  <!-- Hands-On Essentials: Data Lake Workshop -->
+  <div class="certification-item">
+    <h3>Hands-On Essentials: Data Lake Workshop</h3>
+    <a href="https://achieve.snowflake.com/49c783f3-97e5-4178-b727-3a2344cdbae2#acc.5pyd8YjA" target="_blank">
+      <img src="Images/Snowflake-Datalake.png" alt="Hands-On Essentials: Data Lake Workshop" style="max-width:50%; height:auto;">
+    </a>
+    <p>
+   Data Lake Workshop (DLKW) covers non-loaded data and the tools you can use in Snowflake to access and analyze that data. Learn about non-loaded data, unstructured data, GeoSpatial data, and hear about the Iceberg tables that are coming soon! Get hands on experience with Parquet and GeoJSON data, and image data. Run GeoSpatial Functions and create your own User Defined Function. This workshop is highly interactive with reflection questions, hands on lab work and automated lab work checks! Fast-paced and informative, light in tone, scenario-driven and metaphor rich.
+      <a href="https://learn.snowflake.com/en/courses/uni-ess-dlkw/" target="_blank">
+        Learn More
+      </a>
+    </p>
+  </div>
+  <!-- Hands-On Essentials: Data Engineering Workshop -->
+  <div class="certification-item">
+    <h3>Hands-On Essentials: Data Engineering Workshop</h3>
+    <a href="https://achieve.snowflake.com/e7233311-d873-49f3-91d1-dca7cb15da0c#acc.D3e8mhny" target="_blank">
+      <img src="Images/Snowflake-DataEngineering.png" alt="Hands-On Essentials: Data Engineering Workshop" style="max-width:50%; height:auto;">
+    </a>
+    <p>
+   Data Engineering Workshop (DNGW) teaches workshop participants about the role of Data Engineers in Data-Driven organizations and allows the learner to get hands on experience with date and time data types, tasks, pipes, merge statements, and more. This workshop is highly interactive with reflection questions, hands on lab work and automated lab work checks! Fast-paced and informative, light in tone, scenario-driven and metaphor rich.
+      <a href="https://learn.snowflake.com/en/courses/uni-ess-dngw/" target="_blank">
+        Learn More
+      </a>
+    </p>
+  </div>
