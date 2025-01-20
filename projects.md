@@ -13,7 +13,7 @@ title: projects
     <p>The Weather Forecast App allows users to check the weather conditions for the next few days in any city. It provides real-time data on temperature, humidity, wind speed, and other weather parameters like UV index, visibility, and sky conditions. The app offers an intuitive interface with interactive charts and weather images for each forecasted day. Simply enter a city and select the number of days for the forecast to get started.</p>
     <!-- Add the link to your Streamlit app here -->
     <a href="https://weather-forecast-app-1.streamlit.app/" target="_blank" class="btn btn-primary">Try the App</a>
-</div>
+
 
   </div>
   <div class="project-card">
@@ -24,7 +24,7 @@ title: projects
     </div>
   </div>
   </div>
-</section>
+
 
 
   </div>
@@ -37,3 +37,4 @@ title: projects
   </div>
   </div>
 </section>
+</div>
