@@ -84,7 +84,6 @@ title: Certification
     </p>
   </div>
 
-</div>
 
   <!-- Hands-On Essentials: Data Lake Workshop -->
   <div class="certification-item">
@@ -111,4 +110,5 @@ title: Certification
         Learn More
       </a>
     </p>
+  </div>
   </div>
