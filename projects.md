@@ -14,7 +14,7 @@ title: projects
     <!-- Add the link to your Streamlit app here -->
     <a href="https://weather-forecast-app-1.streamlit.app/" target="_blank" class="btn btn-primary">Try the App</a>
 
-
+  </div>
   </div>
   <div class="project-card">
     <img src="Images\customer-behaviour-analysis.jpg" alt="" style="max-width:50%; height:auto;">
@@ -23,11 +23,7 @@ title: projects
       <p>The Customer Behavior Analysis Project explores purchasing patterns and customer responses to promotional activities to uncover actionable insights. By analyzing transaction, promotion, and customer demographic data, the project identifies trends, segments customers, and evaluates the effectiveness of promotions. Leveraging Python for data processing and machine learning models, it predicts customer behavior and highlights key factors driving purchases. Insights are visualized through interactive dashboards, enabling businesses to optimize marketing strategies, enhance customer engagement, and improve sales outcomes. This project is ideal for retailers aiming to better understand and cater to their customers' needs.</p>
     </div>
   </div>
-  </div>
-
-
-
-  </div>
+  
   <div class="project-card">
     <img src="Images\nlockimages.png" alt="" style="max-width:50%; height:auto;">
     <div class="content">
@@ -37,4 +33,3 @@ title: projects
   </div>
   </div>
 </section>
-</div>
